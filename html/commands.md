@@ -42,7 +42,12 @@ Ucelený přehled základních HTML prvků, jejich význam a použití.
 | `<u>`            | Podtržený text                                |
 | `<span>`         | Inline kontejner pro stylování části textu    |
 | `<div>`          | Blokový kontejner                             |
-| `<!-- ... -->`   | Komentář                                      |
+| `<!-- ... -->`   | Komentář  
+| `<div class="cistic"></div>: `| ukončení optekani v css ".cistic {
+                                                         clear: both;
+                                                         }"
+|
+                                   |
 
 ---
 
