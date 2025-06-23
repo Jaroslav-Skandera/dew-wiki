@@ -25,6 +25,17 @@
 - `>=` větší nebo rovno
 - `<=` menší nebo rovno
 
+##Skládání podmínek
+- `or` nebo
+- `and` a zároveň
+  
+a = int(input("Zadejte číslo v rozmezí 10-20: "))
+if a >= 10 and a <= 20:
+    print("Zadal jsi správně")
+else:
+    print("Zadal jsi špatně")```
+
+
 ## Operace s řetězci
 - `string[i]` – znak na pozici i
 - `string[-1]` – poslední znak
