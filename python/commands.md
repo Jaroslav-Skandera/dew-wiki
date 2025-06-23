@@ -29,11 +29,13 @@
 - `or` nebo
 - `and` a zároveň
   
+```Python  
 a = int(input("Zadejte číslo v rozmezí 10-20: "))
 if a >= 10 and a <= 20:
     print("Zadal jsi správně")
 else:
-    print("Zadal jsi špatně")```
+    print("Zadal jsi špatně")
+```
 
 
 ## Operace s řetězci
