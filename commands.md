@@ -1,4 +1,4 @@
-# Tahák základů Pythonu
+# Základní Struktura Python
 
 ## Hlavní datové typy
 - `boolean = True / False` – pravda/nepravda
