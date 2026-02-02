@@ -33,7 +33,7 @@ dew-wiki/
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/dew-wiki.git
+   git clone https://github.com/Jaroslav-Skandera/dew-wiki
 ```
 2. Open `index.html` in your browser
 3. Navigate through sections using the menu
